@@ -1,1 +1,4 @@
-\Runtime\Runtime\
+.idea/*
+chuangye/.idea/*
+chuangye/Runtime/*
+chuangye/Common/Conf/config.php
